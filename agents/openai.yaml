@@ -1,0 +1,4 @@
+interface:
+  display_name: "跨作品人物短篇创作"
+  short_description: "融合跨作品人物原型与故事冲突，创作原创网感现代短篇小说"
+  default_prompt: "使用 $remix-character-fiction 融合指定人物原型与故事冲突，创作一篇原创现代短篇小说。"
