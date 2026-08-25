@@ -12,26 +12,26 @@
 
 ## 安装
 
-将仓库克隆到 Codex Skills 目录：
+克隆本仓库：
 
 ```bash
-git clone https://github.com/dofuyy7777-boop/remix-character-fiction.git ~/.codex/skills/remix-character-fiction
+git clone https://github.com/dofuyy7777-boop/remix-character-fiction.git
 ```
 
-安装后重新启动 Codex。
+将仓库文件夹放入支持 `SKILL.md` 的 AI 工具所使用的 Skills 目录，然后按照对应工具的方式重新加载 Skills。具体目录和加载方法请参考所用工具的文档。
 
 ## 使用
 
-在 Codex 中输入：
+加载 Skill 后，通过名称调用：
 
 ```text
-$remix-character-fiction
+使用 remix-character-fiction
 ```
 
 也可以直接附上创作要求，例如：
 
 ```text
-使用 $remix-character-fiction，把作品 A 中人物 a 的人物特点，
+使用 remix-character-fiction，把作品 A 中人物 a 的人物特点，
 与作品 B 中某个故事的冲突结构结合起来，创作一篇现代短篇小说。
 ```
 
